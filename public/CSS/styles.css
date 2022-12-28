@@ -1,0 +1,177 @@
+/* #f5e050 */
+
+.container-one{
+  background-color: #f5e050;
+  padding-bottom: 5%;
+}
+
+.index{
+  padding: 0 20px 0 20px;
+
+}
+
+.navbar-brand{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 2rem;
+}
+
+.navbar-nav{
+  font-family: " Crimson Text ", serif;
+  font-size: 25px;
+}
+
+.nav-item{
+  padding: 0 15px 0 15px;
+  color: #000;
+}
+
+.heading{
+  text-align: center;
+  font-family: " Crimson Text ", serif;
+  font-size: 4rem;
+}
+
+h1{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 3em;
+
+}
+
+.container-two{
+  text-align: center;
+  padding: 5% 17%;
+}
+
+h2{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 70px;
+  padding-bottom: 5%;
+}
+
+.gif{
+  width: 70%;
+  height: 70%;
+}
+
+.container-three{
+  background-color: #f5e050;
+  text-align: center;
+  padding: 5% 17%;
+  font-family: " Crimson Text ", serif;
+  font-size: 3rem;
+}
+
+.sub-title-one{
+  padding-bottom:  5%;
+}
+
+textarea{
+  background-color: #000;
+  border-radius: 80px;
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  resize: none;
+  padding: 5%;
+  color: #fff;
+}
+
+.container-four{
+  padding-left: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+.title-two{
+  padding-right: 30%;
+  padding-bottom: 0;
+}
+
+.container-fifth{
+  text-align: center;
+  background-color: #f5e050;
+  padding: 5% 17%;
+  font-family: " Crimson Text ", serif;
+  font-size: 3rem;
+}
+
+input{
+  background-color: #000;
+  border-radius: 60px;
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  resize: none;
+  padding: 2%;
+  color: #fff;
+}
+
+.find{
+  padding: 10px 20px;
+  margin: 40px 40px 0 40px;
+}
+
+.container-six{
+  text-align: center;
+  padding-left: 40%;
+  background-color: #e7e6e1;
+}
+
+.title-three{
+  padding-right: 72%;
+  padding-top: 7%;
+}
+
+.changer-1{
+  width:400px;
+  height: 400px;
+  position: relative;
+  right : 320px;
+  margin: 7% 0;
+  border-radius: 30%;
+}
+
+.changer{
+    padding:  7% 0;
+}
+
+.container-seven{
+  text-align: center;
+  background-color: #f5e050;
+  padding: 5% 17%;
+  font-family: " Crimson Text ", serif;
+  font-size: 2rem;
+}
+
+.fab{
+  padding: 2% 5% 5%;
+  font-size: 3rem;
+  color: #000;
+}
+
+
+.banana-box{
+  border: 2px solid;
+  border-color: #000;
+  background-color: #000;
+  color: #fff;
+
+}
+
+.Mname{
+  width: 300px;
+  height: 300px;
+}
+
+.thank{
+  text-align: center;
+  padding: 5% 0 5%;
+  padding-left: 40%;
+}
